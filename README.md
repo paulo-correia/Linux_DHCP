@@ -1,6 +1,9 @@
 # DHCP
 O DHCP, Dynamic Host Configuration Protocol (Protocolo de configuração dinâmica de host), é um protocolo de serviço TCP/IP que oferece configuração dinâmica de terminais, com concessão de endereços IP de host, Máscara de sub-rede, Default Gateway (Gateway Padrão), Número IP de um ou mais servidores DNS, Número IP de um ou mais servidores WINS e Sufixos de pesquisa do DNS.
 
+## No Docker (Alpine Linux)
+[Docker_DHCP](https://github.com/paulo-correia/Docker_DHCP)
+
 ## Instalação
 Toda a instalação é feita como **root**
 
